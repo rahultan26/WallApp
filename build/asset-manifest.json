@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.f8e8dc73.css",
-    "main.js": "/static/js/main.49f119f8.js",
-    "static/js/787.97c89403.chunk.js": "/static/js/787.97c89403.chunk.js",
-    "static/media/Twitter.svg": "/static/media/Twitter.5ced8f28d7316007e47c714ae7639000.svg",
-    "static/media/NFT.svg": "/static/media/NFT.a8461015f9c8237046787aa017e73921.svg",
-    "static/media/gift.svg": "/static/media/gift.5db7bc62c9401f27932bdbc2a016d7b1.svg",
-    "static/media/down.svg": "/static/media/down.93e72312e608ba0d9fcc837ab3b51b33.svg",
-    "static/media/Link.svg": "/static/media/Link.b5858bd9887fe76c25241be3972aac06.svg",
-    "static/media/Check.svg": "/static/media/Check.ef87c65c670f70a4cb88f27d45efa583.svg",
-    "index.html": "/index.html",
-    "main.f8e8dc73.css.map": "/static/css/main.f8e8dc73.css.map",
-    "main.49f119f8.js.map": "/static/js/main.49f119f8.js.map",
-    "787.97c89403.chunk.js.map": "/static/js/787.97c89403.chunk.js.map"
+    "main.css": "/WallAssignment/static/css/main.f8e8dc73.css",
+    "main.js": "/WallAssignment/static/js/main.955ac66e.js",
+    "static/js/787.97c89403.chunk.js": "/WallAssignment/static/js/787.97c89403.chunk.js",
+    "static/media/Twitter.svg": "/WallAssignment/static/media/Twitter.5ced8f28d7316007e47c714ae7639000.svg",
+    "static/media/NFT.svg": "/WallAssignment/static/media/NFT.a8461015f9c8237046787aa017e73921.svg",
+    "static/media/gift.svg": "/WallAssignment/static/media/gift.5db7bc62c9401f27932bdbc2a016d7b1.svg",
+    "static/media/down.svg": "/WallAssignment/static/media/down.93e72312e608ba0d9fcc837ab3b51b33.svg",
+    "static/media/Link.svg": "/WallAssignment/static/media/Link.b5858bd9887fe76c25241be3972aac06.svg",
+    "static/media/Check.svg": "/WallAssignment/static/media/Check.ef87c65c670f70a4cb88f27d45efa583.svg",
+    "index.html": "/WallAssignment/index.html",
+    "main.f8e8dc73.css.map": "/WallAssignment/static/css/main.f8e8dc73.css.map",
+    "main.955ac66e.js.map": "/WallAssignment/static/js/main.955ac66e.js.map",
+    "787.97c89403.chunk.js.map": "/WallAssignment/static/js/787.97c89403.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f8e8dc73.css",
-    "static/js/main.49f119f8.js"
+    "static/js/main.955ac66e.js"
   ]
 }
