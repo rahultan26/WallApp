@@ -6,6 +6,68 @@
   height: 40vmin;
   pointer-events: none;
 }
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.view-button * {
+  box-sizing: border-box;
+}
+.view-button {
+  border-radius: 99px;
+  border-style: solid;
+  border-color: var(--ref-colors-indigo-06-p, #6366f1);
+  border-width: 1.5px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 120px;
+  height: 40px;
+  position: relative;
+  overflow: hidden;
+  background-color: transparent;
+  color: white;
+}
+.loading-spinner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+}
+
+.loading-spinner span {
+  display: inline-block;
+  margin-left: 10px;
+  font-size: 16px;
+  color: #ffffff;
+}
+
+@keyframes spinner-rotate {
+  0% {
+    transform: rotate(0);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.loading-spinner::after {
+  content: "";
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border: 2px solid #ffffff;
+  border-top-color: transparent;
+  border-radius: 50%;
+  animation: spinner-rotate 1s linear infinite;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
